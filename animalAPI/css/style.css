@@ -1,0 +1,34 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  text-align: center;
+  /* outline: red solid 1px; */
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  width: 390px;
+}
+/* div {
+  display: flex;
+  justify-content: space-around;
+} */
+h3{
+  width: 33%;
+  float: left;
+}
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
